@@ -1,0 +1,42 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@expo-google-fonts/inter": "^0.2.0",
+    "@react-native-community/masked-view": "0.1.10",
+    "@react-navigation/bottom-tabs": "^5.11.15",
+    "@react-navigation/drawer": "^5.12.9",
+    "@react-navigation/stack": "^5.14.9",
+    "clipboard": "^2.0.8",
+    "expo": "~40.0.0",
+    "expo-app-loading": "^1.1.2",
+    "expo-font": "~8.4.0",
+    "expo-status-bar": "^1.0.4",
+    "hex-to-hsl": "^1.0.2",
+    "randomcolor": "^0.6.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-40.0.1.tar.gz",
+    "react-native-animated-nav-tab-bar": "^3.1.4",
+    "react-native-dynamic-search-bar": "^2.0.1",
+    "react-native-gesture-handler": "~1.8.0",
+    "react-native-paper": "^4.9.2",
+    "react-native-reanimated": "~1.13.0",
+    "react-native-safe-area-context": "3.1.9",
+    "react-native-screens": "~2.15.2",
+    "react-native-search-bar": "^3.5.1",
+    "react-native-shadow-cards": "^1.0.2",
+    "react-native-web": "~0.13.12",
+    "react-use-previous": "^1.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.0"
+  },
+  "private": true
+}
