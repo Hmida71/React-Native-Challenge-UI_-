@@ -1,4 +1,4 @@
-# React-Native-Challenge-UI
+# React-Native-Challenge-ui
 <h1>React-Native-Challenge-UI Cool Gym App  🔥🔥  </h1>
 <hr>
 
@@ -28,6 +28,7 @@
 </tbody>
 </table>
 
+<hr>
 
 GYM App With __😈__ React Native Challenge ui 🚀
 
